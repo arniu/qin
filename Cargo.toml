@@ -1,0 +1,9 @@
+[package]
+name = "qin"
+version = "0.0.1"
+description = "A terminal music player"
+repository = "https://github.com/arniu/qin"
+license = "MIT OR Apache-2.0"
+edition = "2018"
+
+[dependencies]
